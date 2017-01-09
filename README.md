@@ -1,5 +1,5 @@
 #django tango tjango dango
 
-Attempting the django tutorial with only knowledge from 63% of a python codecademy course that I did in 2015.
+Nothing fancy to see here folks!
 
-I'm trying.
+Was attempting to complete the django docs tutorial with python knowledge from the 63% of a python codecademy course I did in 2015. It turned out ok!
